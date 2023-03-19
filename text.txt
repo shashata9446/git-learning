@@ -14,3 +14,4 @@ git restore
 git remote
 git push
 git pull
+.gitignore
