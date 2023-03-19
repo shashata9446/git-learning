@@ -1,3 +1,16 @@
 working directory -> stagging area -> local repository -> remote repository
 Test-Project    ->  git init    ->  git add ->  git commit  ->  git push
-Here we are learning git
+Here we are learning git. Here are some important git commands  ------->
+git config
+git init
+git status
+git add .
+git commit
+git diff
+git reset
+git checkout
+git log
+git restore
+git remote
+git push
+git pull
