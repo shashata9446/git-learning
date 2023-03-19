@@ -1,6 +1,3 @@
 Hey this test3 file is from the branch feature2.
-<<<<<<< HEAD
 This line changed in master branch.
-=======
 This line created in feature2 branch.
->>>>>>> feature2
