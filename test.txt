@@ -4,3 +4,4 @@ I'm from Bangladesh.
 I'm a CSE Engineer.
 I'm learning flutter.
 I've done my BSc in 2021.
+Everything I'm doing here is for learning git.
