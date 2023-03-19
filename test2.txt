@@ -1,2 +1,2 @@
 Hey, this is test2 file from feature1 branch.
-Hello this line is from branch feature2.
+Hello this line is from branch master.
